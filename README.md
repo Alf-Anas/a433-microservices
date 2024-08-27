@@ -1,2 +1,4 @@
-# a433-microservices
-Repository ini digunakan untuk kebutuhan kelas Belajar Membangun Arsitektur Microservices
+# PROYEK AKHIR
+
+run : 
+`docker-compose up -d`
