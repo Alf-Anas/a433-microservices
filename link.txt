@@ -1,0 +1,4 @@
+UI : https://github.com/users/Alf-Anas/packages/container/package/karsajobs-ui
+BE : https://github.com/users/Alf-Anas/packages/container/package/karsajobs
+
+Repository : https://github.com/Alf-Anas/a433-microservices/tree/proyek-kedua
